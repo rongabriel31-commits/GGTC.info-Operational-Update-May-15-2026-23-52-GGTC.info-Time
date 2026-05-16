@@ -281,3 +281,245 @@ The structure survives through continuity.
 Structured Systems · Global Learning · Continuous Development
 
 </div>
+# SOURCE INDEX + INTERNAL LINKING STRUCTURE
+
+## GGTC.info Operational Update — May 16, 2026 — 00:04 GGTC.info Time
+
+This section is intended to be inserted directly into the repository README and mirrored into /docs/references/MASTER_SOURCE_INDEX.md.
+
+It creates:
+- source alignment,
+- internal linking structure,
+- repository navigation continuity,
+- operational verification references,
+- and ecosystem relationship mapping.
+
+---
+
+# MASTER SOURCE INDEX
+
+## VERIFIED PRIMARY OPERATIONAL SOURCES
+
+| SOURCE CATEGORY | SOURCE | STATUS | REPOSITORY ROLE |
+|---|---|---|---|
+| Operational Screenshots | GGTC Global Mode Captures | VERIFIED | Primary Operational Evidence |
+| Synchronization Interface | GGTC.info TECH & PUBLISHING TIME CLOCK | VERIFIED | Synchronization Verification |
+| Operational Branding | GGTC Gold Interface System | VERIFIED | Visual Continuity Layer |
+| Repository Assets | Repository Screenshots + Captures | VERIFIED | Archive Verification |
+| Ecosystem Domain References | GGTC Domain Network Listings | VERIFIED | Ecosystem Infrastructure Mapping |
+
+---
+
+# INTERNAL REPOSITORY LINKING STRUCTURE
+
+## ROOT REPOSITORY FLOW
+
+plaintext id="2wx7or" README.md │ ├── /docs │   ├── /continuity │   ├── /governance │   ├── /operations │   ├── /verification │   ├── /references │   └── /logbook │ ├── /frameworks │   ├── continuity-framework.md │   ├── synchronization-framework.md │   ├── operational-doctrine.md │   └── archive-continuity.md │ ├── /archive │   ├── /events │   ├── /timeline │   └── /historical-records │ └── /assets     ├── /screenshots     ├── /branding     ├── /visual-systems     └── /interface-captures 
+
+---
+
+# README INTERNAL LINK MAP
+
+## PRIMARY STRUCTURE LINKS
+
+### Repository Overview
+Linked Files:
+- /docs/operations/OPERATIONAL_CONTEXT.md
+- /docs/continuity/CONTINUITY_SUMMARY.md
+
+---
+
+### Verified Operational Facts
+Linked Files:
+- /docs/verification/VERIFIED_OBSERVATIONS.md
+- /assets/screenshots/
+- /assets/interface-captures/
+
+---
+
+### Synchronization Infrastructure
+Linked Files:
+- /frameworks/synchronization-framework.md
+- /docs/operations/GLOBAL_SYNC_STRUCTURE.md
+
+---
+
+### Ecosystem Architecture
+Linked Files:
+- /docs/references/ECOSYSTEM_MAP.md
+- /docs/references/DOMAIN_NETWORK_INDEX.md
+
+---
+
+### Repository Governance
+Linked Files:
+- /docs/governance/GOVERNANCE_STRUCTURE.md
+- /frameworks/operational-doctrine.md
+
+---
+
+### Archive Continuity Doctrine
+Linked Files:
+- /frameworks/archive-continuity.md
+- /archive/timeline/
+
+---
+
+### Source Verification Standards
+Linked Files:
+- /docs/verification/SOURCE_STANDARD.md
+- /docs/references/MASTER_SOURCE_INDEX.md
+
+---
+
+### Citation + Reference Policy
+Linked Files:
+- /docs/references/CITATION_POLICY.md
+
+---
+
+### Visual Systems Layer
+Linked Files:
+- /assets/branding/
+- /assets/visual-systems/
+
+---
+
+### Operational Analysis
+Linked Files:
+- /docs/analysis/OPERATIONAL_ANALYSIS.md
+- /archive/events/
+
+---
+
+# ECOSYSTEM DOMAIN LINK STRUCTURE
+
+## CORE INFRASTRUCTURE NODES
+
+| DOMAIN | LINK ROLE |
+|---|---|
+| GGTC.info | Central System Interface |
+| Quibhoball.com | Expansion Layer |
+| GGTCAI.global | AI + Systems Integration |
+| GGTCUNIVERSE.com | Narrative Layer |
+
+---
+
+## PUBLISHING + MEDIA NETWORK
+
+| DOMAIN | FUNCTION |
+|---|---|
+| GGTCPUBLISHING.com | Publishing Infrastructure |
+| GGTCGLOBALMEDIA.com | Media Distribution |
+| GGTCTRAINING.com | Training Systems |
+| GGTCSTEMTRAINING.com | STEM Infrastructure |
+
+---
+
+## EXTENDED NETWORK
+
+| DOMAIN | ROLE |
+|---|---|
+| GGTCMULTIMULTIVERSE.com | Extended Concept Layer |
+| GGTCGLOBALAI.com | AI Expansion Layer |
+| GGTCQuantumkids.org | Education Node |
+| GGTCAI.com | AI Systems Layer |
+
+---
+
+# SOURCE ALIGNMENT STRUCTURE
+
+## DIRECT OPERATIONAL ARTIFACTS
+
+### Repository Assets
+Use for:
+- verification
+- continuity evidence
+- synchronization confirmation
+- operational observations
+
+---
+
+## SCREENSHOT VERIFICATION LAYER
+
+Use screenshots for:
+- interface validation
+- synchronization verification
+- branding continuity
+- ecosystem display confirmation
+- operational timestamp references
+
+---
+
+## DOMAIN REFERENCE LAYER
+
+Use domain references for:
+- ecosystem mapping
+- infrastructure continuity
+- network structure visualization
+- operational ecosystem relationships
+
+---
+
+# CROSS-REPOSITORY LINKING MODEL
+
+## PUBLIC CONTINUITY REPOSITORIES
+
+Should link to:
+- governance repositories
+- synchronization frameworks
+- archive continuity structures
+- operational doctrine repositories
+
+---
+
+## GOVERNANCE REPOSITORIES
+
+Should reference:
+- operational continuity repositories
+- repository standards
+- archive doctrine
+- synchronization doctrine
+
+---
+
+## PUBLISHING REPOSITORIES
+
+Should connect:
+- README doctrine
+- operational structures
+- continuity references
+- branding systems
+- ecosystem references
+
+---
+
+# CITATION BLOCK STRUCTURE
+
+## VERIFIED OBSERVATION FORMAT
+
+markdown id="7t3f0k" ### Verified Observation  Source: Operational screenshot capture stored in: `/assets/screenshots/`  Verification Type: Direct visual operational confirmation  Observed Elements: - synchronization interface - operational timing - ecosystem network references - publishing continuity indicators 
+
+---
+
+# FOOTER CONTINUITY LINKS
+
+## Recommended README Footer Links
+
+markdown id="8x0k2m" ## Related Repositories  - GGTC.info Master Governance Framework - GGTC.info Synchronization Infrastructure - GGTC.info Archive Continuity Systems - GGTC.info Publishing Systems - GGTC.info Operational Doctrine  ---  GGTC.INFO — Structured Systems · Global Learning · Continuous Development 
+
+---
+
+# FINAL STRUCTURE NOTE
+
+This repository should function as:
+- a continuity node,
+- a governance-connected archive,
+- a synchronization reference system,
+- and a repository-first operational documentation layer.
+
+The internal linking structure is intended to:
+- reduce fragmentation,
+- preserve continuity,
+- increase navigation clarity,
+- and maintain ecosystem relationship visibility.
